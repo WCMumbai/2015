@@ -18,13 +18,17 @@ Basic intro goes here. Start with a paragraph about what your talk is about and 
 ------------------------------------------------------------
 
 // Use questions to share basic takeaways - 
-###How WordPress stores data in the wp_options table
+###How WordPress stores data in the wp_options table?
+
 Option Name - 64 characters
+
 Option value - longtext (4gigs)
 
 //Include a slidedeck of your presentation for future reference in case it contains schematics and interesting pictures-
 ###Slide deck
 https://speakerdeck.com/derpavkar/wordpress-junk-drawer-and-how-to-organize-it
+
+------------------------------------------------------------
 
 In case you spoke about one big thing! -
 ###This is the master link - http://example.com
@@ -32,12 +36,17 @@ In case you spoke about one big thing! -
 ------------------------------------------------------------
 
 //make your code easily readable and provide sidenotes where required
+
 `npm install -g grunt-cli`
+
 (-g is global flag)
 
 `wptexturize`
+
 `convert_chars`
+
 `wpautop`
+
 Automattically puts `<p>` tags around text
 
 ------------------------------------------------------------
