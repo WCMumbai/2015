@@ -19,10 +19,8 @@ Basic intro goes here. Start with a paragraph about what your talk is about and 
 
 // Use questions to share basic takeaways - 
 ###How WordPress stores data in the wp_options table?
-
-Option Name - 64 characters
-
-Option value - longtext (4gigs)
+- Option Name - 64 characters
+- Option value - longtext (4gigs)
 
 //Include a slidedeck of your presentation for future reference in case it contains schematics and interesting pictures-
 ###Slide deck
