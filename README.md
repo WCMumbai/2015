@@ -3,7 +3,7 @@
 Hello there,
 
 ## If you are a speaker... 
-Want to add notes here? Create a file like - `firstnamelastname-talkname.md`
+Want to add notes here? Create a file like - `firstname-lastname-talk-name-with-dashes-instead-of-spaces.md`
 
 `For eg. Derp Derpavkar - Starting a WordPress Blog`
 - Copy over the template.md file and use it as a starting point. (recommended)
