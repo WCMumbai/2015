@@ -9,25 +9,12 @@ This talk is aimed at WordPress developers of medium to advance level.
 ------------------------------------------------------------
 
 ###Things I'll Be Covering
-- Writing PHP functions in functions.php
+- Objects in WordPress - the wp_posts table and Custom Post Types
 - WordPress's CRUD functions
 - Interfacing with AJAX
+- The WP REST API Plugin
 - WordPress Action Hooks
 - Templating in a HTML5 view with moustache-style templates
-- The WP REST API Plugin
-
-------------------------------------------------------------
-
-###How do we create 'objects' in WordPress?
-- As Custom Post Types
-- Stored as entries in the wp_posts table
-
-###What are object's properties stored as?
-- Metadata
-- Stored in the wp_postmeta table
-
-###How do we capture data events in WordPress?
-- Through WordPress Action Hooks
 
 ------------------------------------------------------------
 
