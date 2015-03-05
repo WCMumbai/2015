@@ -29,9 +29,6 @@ This talk is aimed at WordPress developers of medium to advance level.
 ###How do we capture data events in WordPress?
 - Through WordPress Action Hooks
 
-###Slide deck
-https://speakerdeck.com/derpavkar/wordpress-junk-drawer-and-how-to-organize-it
-
 ------------------------------------------------------------
 
 ###Helpful Resources for beginners- 
