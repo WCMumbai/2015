@@ -11,7 +11,7 @@ This talk is aimed at WordPress developers of medium to advanced level.
 ###Things I'll Be Covering
 - Objects in WordPress - the wp_posts table and Custom Post Types
 - WordPress's CRUD functions
-- WordPress Action Hooks
+- WordPress's Action Hooks
 - Interfacing with AJAX
 - The WP REST API Plugin
 - Templating in a HTML5 view with moustache-style templates
