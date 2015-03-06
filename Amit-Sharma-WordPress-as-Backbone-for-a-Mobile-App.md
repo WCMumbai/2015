@@ -4,7 +4,7 @@
 
 In the past couple of years, WordPress is being used more as an app development platform and less as a blog or CMS. I'll take you through my journey of taking this concept forward and building a mobile app with WordPress acting as the backbone.
 
-This talk is aimed at WordPress developers of medium to advance level.
+This talk is aimed at WordPress developers of medium to advanced level.
 
 ------------------------------------------------------------
 
@@ -23,5 +23,6 @@ This talk is aimed at WordPress developers of medium to advance level.
 - [WordPress Action Reference](http://codex.wordpress.org/Plugin_API/Action_Reference)
 - [Adam Brown's WP Hooks Database](http://adambrown.info/p/wp_hooks)
 - [The WordPress REST API](http://wp-api.org/) 
+- [Generate WP](http://www.generatewp.com/)
 
 ------------------------------------------------------------
