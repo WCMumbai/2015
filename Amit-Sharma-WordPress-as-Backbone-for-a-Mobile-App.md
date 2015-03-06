@@ -25,6 +25,7 @@ This talk is aimed at WordPress developers of medium to advanced level.
 - [The WordPress REST API](http://wp-api.org/) 
 - [Generate WP](http://www.generatewp.com/)
 - [Handlebars Javasript templating] (http://handlebarsjs.com/)
+- [jQuery's AJAX function documentation] (http://api.jquery.com/jquery.ajax/)
 
 ------------------------------------------------------------
 
