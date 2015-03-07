@@ -16,6 +16,8 @@ This talk is aimed at WordPress developers of medium to advanced level.
 - The WP REST API Plugin
 - Templating in a HTML5 view with moustache-style templates
 
+[The slide deck] (http://www.slideshare.net/hypnosh/wordpress-a-mobile-app-45556734)
+
 ------------------------------------------------------------
 
 ###Helpful Resources- 
