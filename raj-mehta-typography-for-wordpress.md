@@ -52,6 +52,7 @@ Here are some *really* useful links:
  - [Golden ratio typography](http://www.pearsonified.com/typography/)
  - [CSS font stack](http://www.cssfontstack.com/) for checking web-safe fonts
  - [Google fonts](http://www.google.com/fonts) for free web fonts
+ - [WP Google Fonts](https://wordpress.org/plugins/wp-google-fonts/) - plugin for adding Google fonts to your site
  - [Typography.com](http://www.typography.com/) for paid fonts
  - [Typekit.com](https://typekit.com/) for paid fonts (they also offer free ones)
  
