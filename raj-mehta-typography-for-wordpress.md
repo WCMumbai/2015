@@ -47,14 +47,16 @@ If you want even more control, here are some CSS properties which will help you 
 
 ------------------------------------------------------------
 
-Here are some *really* useful links:
+### Get fonts from here:
 
  - [Google fonts](http://www.google.com/fonts) for free web fonts
  - [Typography.com](http://www.typography.com/) for paid fonts
  - [Typekit.com](https://typekit.com/) for paid fonts (they also offer free ones)
 
- - [Golden ratio typography](http://www.pearsonified.com/typography/) for setting your fonts in proportion
+### Here are some *really* useful links:
+
  - [CSS font stack](http://www.cssfontstack.com/) for checking web-safe fonts
+ - [Golden ratio typography calculator](http://pearsonified.com/typography/)
  - [WP Google Fonts](https://wordpress.org/plugins/wp-google-fonts/) - plugin for adding Google fonts to your site
  - [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) - chrome extension for checking fonts on all websites
  
