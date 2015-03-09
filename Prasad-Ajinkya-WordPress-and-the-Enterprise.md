@@ -28,12 +28,12 @@ http://www.slideshare.net/kidakaka/wordpress-and-the-enterprise
 - Secure Credentials: Leet speak is not necessary the best way to get secure passwords. Or are the oft used caps, numeric, special character rules! [XKCD Reference] (http://xkcd.com/936/)
 - [Simple instructions for setting the right permissions in WordPress] (http://codex.wordpress.org/Changing_File_Permissions)
 - Plug-ins used for security
- -- [iThemes Security] (https://wordpress.org/plugins/better-wp-security/)
- –- [WordFence] (https://wordpress.org/plugins/wordfence/)
- -- Coming soon to JetPack :)
+  - [iThemes Security] (https://wordpress.org/plugins/better-wp-security/)
+  – [WordFence] (https://wordpress.org/plugins/wordfence/)
+  - Coming soon to JetPack :)
 - Backup Plug-ins
- -- [Vaultpress] (https://vaultpress.com/)
- -- [BackupWordPress] (https://wordpress.org/plugins/backupwordpress/)
+  - [Vaultpress] (https://vaultpress.com/)
+  - [BackupWordPress] (https://wordpress.org/plugins/backupwordpress/)
 - Do you need so many plug-ins?
 
 ------------------------------------------------------------
@@ -44,10 +44,10 @@ http://www.slideshare.net/kidakaka/wordpress-and-the-enterprise
 - [WordPress on HHVM] (http://hhvm.com/blog/3095/getting-wordpress-running-on-hhvm) gives a [100% boost] (http://www.xyu.io/2014/09/wordpress-performance-with-hhvm/)
 - [Nginx] (http://nginx.org/en/)
 - Plug-ins
--- [WP-SuperCache] (https://wordpress.org/plugins/wp-super-cache/)
--- [W3-Total Cache] (https://wordpress.org/plugins/w3-total-cache/)
--- [WP-Minify] (https://wordpress.org/plugins/wp-minify/)
--- [JetPack] (https://wordpress.org/plugins/jetpack/) has a CDN module for images via Photon
+  - [WP-SuperCache] (https://wordpress.org/plugins/wp-super-cache/)
+  - [W3-Total Cache] (https://wordpress.org/plugins/w3-total-cache/)
+  - [WP-Minify] (https://wordpress.org/plugins/wp-minify/)
+  - [JetPack] (https://wordpress.org/plugins/jetpack/) has a CDN module for images via Photon
 
 ------------------------------------------------------------
 
