@@ -1,6 +1,4 @@
 # 2015
-Speaker Notes Template for WordCamp Mumbai 2015
-
 ##Prasad Ajinkya - 13 Llama Studio.
 
 In the past couple of years, WordPress is being used more as an app development platform and less as a blog or CMS. 
