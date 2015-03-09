@@ -3,6 +3,7 @@
 ##Rahul Bansal - Debugging WordPress Performance. Using EasyEninge.
 
 Poorly coded WordPress sites can perform slowly even on better hosting platform and highly tweaked server. If the issue is in codes or SQL queries, it would be better to debug the code and/or queries itself.
+
 EasyEngine makes debugging process easier so apart from actual debugging process with live examples, I will show how to use EasyEngine for debugging.
 
 ------------------------------------------------------------
