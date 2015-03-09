@@ -28,12 +28,12 @@ http://www.slideshare.net/kidakaka/wordpress-and-the-enterprise
 - Secure Credentials: Leet speak is not necessary the best way to get secure passwords. Or are the oft used caps, numeric, special character rules! [XKCD Reference] (http://xkcd.com/936/)
 - [Simple instructions for setting the right permissions in WordPress] (http://codex.wordpress.org/Changing_File_Permissions)
 - Plug-ins used for security
--- [iThemes Security] (https://wordpress.org/plugins/better-wp-security/)
-–- [WordFence] (https://wordpress.org/plugins/wordfence/)
--- Coming soon to JetPack :)
+ -- [iThemes Security] (https://wordpress.org/plugins/better-wp-security/)
+ –- [WordFence] (https://wordpress.org/plugins/wordfence/)
+ -- Coming soon to JetPack :)
 - Backup Plug-ins
--- [Vaultpress] (https://vaultpress.com/)
--- [BackupWordPress] (https://wordpress.org/plugins/backupwordpress/)
+ -- [Vaultpress] (https://vaultpress.com/)
+ -- [BackupWordPress] (https://wordpress.org/plugins/backupwordpress/)
 - Do you need so many plug-ins?
 
 ------------------------------------------------------------
