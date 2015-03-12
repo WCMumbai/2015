@@ -1,4 +1,5 @@
 #Translate WordPress to Your Language
+-Bigul Malayi
 
 Main goal of my session is an introduction to GlotPress, it’s usages and tools related to it. In addition I will share some good practices for translating WordPress themes and Plugin
 
